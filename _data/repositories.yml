@@ -1,5 +1,5 @@
 github_users:
   - mumukiller
 
-github_repos:
-  - openjdk/jdk
+#github_repos:
+#  - openjdk/jdk
