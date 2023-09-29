@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mikrotik.com/'>Mikrotiks</a>. <a href='https://www.oracle.com/java/'>Java</a>. Software. Games. Music. Other time and money consuming hobbies.
+subtitle: Senior Java Engineer/Tech Lead
 
 profile:
   align: right
