@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Foundation of One Stop Page. :sparkles: 
+Foundation of the One Stop Page. :sparkles: 
